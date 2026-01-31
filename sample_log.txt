@@ -1,0 +1,6 @@
+INFO User login successful
+ERROR Failed password attempt
+INFO File uploaded
+WARNING Disk usage high
+ERROR Timeout occurred
+INFO User logout
